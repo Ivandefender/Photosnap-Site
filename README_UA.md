@@ -1,8 +1,8 @@
 <h1 align="center">PHOTOSNAP SITE</h1>
 
 <div align="center">
-    <a href="">View Project |</a>
-    <a href="">View Code</a>
+    <a href="https://ivandefender.github.io/Photosnap-Site/">View Project |</a>
+    <a href="https://github.com/Ivandefender/Photosnap-Site">View Code</a>
 </div>
 
 <p align="center">
